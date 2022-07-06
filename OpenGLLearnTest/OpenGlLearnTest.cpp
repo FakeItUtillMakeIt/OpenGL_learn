@@ -2,7 +2,9 @@
 //
 
 #include <iostream>
-#include "createAWindow.h"
+//#include "createAWindow.h"
+//#include "helloTriangle.h"
+#include "helloTriangle1.h"
 
 int main()
 {
